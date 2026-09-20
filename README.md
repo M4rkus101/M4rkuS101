@@ -16,11 +16,3 @@
   <a href="https://x.com/M4rkus101">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
 </a>
-<a href="https://m4rkus101.atabook.org/" target="_blank">
-  <img src="https://img.shields.io/badge/ATABOOK-1a73e8?style=for-the-badge&logo=bookstack&logoColor=white">
-</a>
-      </p>
-    </td>
-  </tr>
-</table>
-
