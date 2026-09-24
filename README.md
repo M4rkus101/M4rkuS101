@@ -26,3 +26,6 @@
   <a href="https://x.com/M4rkus101">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
 </a>
+  
+<p align="center">
+<img width="444" height="442" alt="Записування з екрана 2026-09-24 110811" src="https://github.com/user-attachments/assets/919112a1-b105-48a4-bb3e-5b89d79f56ab" />
