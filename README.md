@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-<a href="https://hits.sh/github.com/M4rkuS101/"><img alt="Hits" src="https://hits.sh/github.com/M4rkuS101.svg?label=arg%20fan&color=686868&labelColor=000000&logo=slug"/></a>
+<a href="https://hits.sh/github.com/M4rkuS101/"><img alt="Hits" src="https://hits.sh/github.com/M4rkuS101.svg?label=ARG%20lover&color=565660&labelColor=000000"/></a>
 
 
  <p align="center">
