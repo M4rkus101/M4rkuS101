@@ -1,5 +1,8 @@
- <p align="center">
 <p align="center">
+<a href="https://hits.sh/github.com/M4rkuS101/"><img alt="Hits" src="https://hits.sh/github.com/M4rkuS101.svg?label=arg%20fan&color=686868&labelColor=000000&logo=slug"/></a>
+ 
+ 
+ <p align="center"> 
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31b7rlheccpc6whjf7ppqftkif6y&cover_image=true&theme=spotify-embed&show_offline=false&background_color=111113&interchange=false&profanity=false&hide_remaster=false&bar_color=bec2c6&bar_color_cover=true&mode=dark">
   </a>
