@@ -1,11 +1,11 @@
 <p align="center">
-<kbd>$\color{black}{\text{✹. names Mark/Markus}}$</kbd>
+<kbd>$\color{black}{\text{✹- names Mark/Markus}}$</kbd>
 <p align="center">
 <kbd>$\color{#0b0d0f}{\text{July 28th}}$</kbd>
 <p align="center">
 <kbd>$\color{#485f5e}{\text{C + H ohly when alone}}$</kbd>
 <p align="center">
-<kbd>$\color{#5d7977}{\text{Int TBoTV fans, pls. ✠}}$</kbd>
+<kbd>$\color{#5d7977}{\text{Int TBoTV fans, pls -✠}}$</kbd>
  <p align="center"> 
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31b7rlheccpc6whjf7ppqftkif6y&cover_image=true&theme=spotify-embed&show_offline=false&background_color=111113&interchange=false&profanity=false&hide_remaster=false&bar_color=bec2c6&bar_color_cover=true&mode=dark">
