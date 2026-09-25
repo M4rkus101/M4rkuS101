@@ -1,12 +1,15 @@
-<p align="center">
 <kbd>$\color{black}{\text{✹- names Mark/Markus}}$</kbd>
-<p align="center">
+
+
 <kbd>$\color{#0b0d0f}{\text{July 28th}}$</kbd>
-<p align="center">
+
+
 <kbd>$\color{#485f5e}{\text{Artist + Programmist(?)}}$</kbd>
-<p align="center">
+
+
 <kbd>$\color{#5d7977}{\text{Int TBoTV+TLPA fans, pls -✠}}$</kbd>
-<p align="center">
+
+
 <kbd>$\color{#e1f9f4}{\text{Krita, Clip Studio Paint + Ibis Paint user(laptop)}}$</kbd>
 
 > [!CAUTION]
