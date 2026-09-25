@@ -8,6 +8,9 @@
 <kbd>$\color{#5d7977}{\text{Int TBoTV+TLPA fans, pls -✠}}$</kbd>
 <p align="center">
 <kbd>$\color{#e1f9f4}{\text{Krita, Clip Studio Paint + Ibis Paint user(laptop)}}$</kbd>
+ > [!DISCLAIMER]
+> I can be annoying cus of my spam-laugh, my humor & other.
+ 
  <p align="center"> 
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31b7rlheccpc6whjf7ppqftkif6y&cover_image=true&theme=spotify-embed&show_offline=false&background_color=111113&interchange=false&profanity=false&hide_remaster=false&bar_color=bec2c6&bar_color_cover=true&mode=dark">
