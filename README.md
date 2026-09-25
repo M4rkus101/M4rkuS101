@@ -10,7 +10,7 @@
 <kbd>$\color{#5d7977}{\text{Int TBoTV+TLPA fans, pls}}$</kbd>
 
 
-<kbd>$\color{#e1f9f4}{\text{Krita, Clip Studio Paint + Ibis Paint user(laptop) -✺}}$</kbd>
+<kbd>$\color{#e1f9f4}{\text{Krita, Clip Studio Paint, HiPaint, Ibis Paint user(laptop+tablet) -✺}}$</kbd>
 
 > [!CAUTION]
 > I can be annoying cus of my spam-laugh, my humor & other.
