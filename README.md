@@ -1,7 +1,7 @@
 <kbd>$\color{black}{\text{✹- names Mark/Markus}}$</kbd>
 
 
-<kbd>$\color{#0b0d0f}{\text{July 28th}}$</kbd>
+<kbd>$\color{#0b0d0f}{\text{July 28th -bday}}$</kbd>
 
 
 <kbd>$\color{#485f5e}{\text{Artist + Programmist(?)}}$</kbd>
