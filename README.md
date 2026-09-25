@@ -30,7 +30,7 @@
 <kbd>$\color{#e1f9f4}{\text{Krita, Clip Studio Paint, HiPaint, Ibis Paint user(laptop+tablet) -✺}}$</kbd>
 
 > [!CAUTION]
-> I can be annoying cus of my spam-laugh, my humor & other.
+> I can be annoying cus of my spam-laugh, my humor, my "swear language" & other.
  
 
 
