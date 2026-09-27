@@ -11,9 +11,6 @@
   <a href="https://x.com/M4rkus101">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
 </a>
-<p align="center">
-<img width="244" height="242" alt="Записування з екрана 2026-09-24 110811" src="https://github.com/user-attachments/assets/919112a1-b105-48a4-bb3e-5b89d79f56ab" />
-  
 
 <kbd>$\color{black}{\text{✹- names Mark/Markus}}$</kbd>
 
@@ -24,7 +21,7 @@
 <kbd>$\color{#485f5e}{\text{Artist + Programmist(?)}}$</kbd>
 
 
-<kbd>$\color{#5d7977}{\text{Int TBoTV+TLPA fans, pls}}$</kbd>
+<kbd>$\color{#5d7977}{\text{Int MC SMP's/ARG's fans, pls}}$</kbd>
 
 
 <kbd>$\color{#e1f9f4}{\text{Krita, Clip Studio Paint, HiPaint, Ibis Paint user(laptop+tablet) -✺}}$</kbd>
