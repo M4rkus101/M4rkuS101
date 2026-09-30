@@ -8,9 +8,6 @@
     <a href="https://www.roblox.com/users/7204730988/profile">
     <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white">
   </a>
-  <a href="https://x.com/M4rkus101">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
-</a>
 
 <kbd>$\color{black}{\text{✹- names Mark/Markus}}$</kbd>
 
