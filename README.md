@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white">
   </a>
 
-<kbd>$\color{black}{\text{✹- names Mark/Markus}}$</kbd>
+<kbd>$\color{#01002f}{\text{✹- names Mark/Markus}}$</kbd>
 
 
 <kbd>$\color{#0b0d0f}{\text{July 28th -bday}}$</kbd>
