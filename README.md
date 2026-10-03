@@ -9,27 +9,24 @@
     <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white">
   </a>
 
-<kbd>$\color{#01002f}{\text{✹- names Mark/Markus}}$</kbd>
-
-
-<kbd>$\color{#0b0d0f}{\text{July 28th -bday}}$</kbd>
-
-
-<kbd>$\color{#485f5e}{\text{Artist + Programmist(?)}}$</kbd>
-
-
-<kbd>$\color{#5d7977}{\text{Int MC SMP's/ARG's fans, pls}}$</kbd>
-
-
-<kbd>$\color{#e1f9f4}{\text{Krita, Clip Studio Paint, HiPaint, Ibis Paint user(laptop+tablet) -✺}}$</kbd>
-
-> [!CAUTION]
-> I can be annoying cus of my spam-laugh, my humor, my "swear language" & other.
- 
-
-
-  <a href="https://github.com/kittinan/spotify-github-profile">
+   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31b7rlheccpc6whjf7ppqftkif6y&cover_image=true&theme=spotify-embed&show_offline=false&background_color=111113&interchange=false&profanity=false&hide_remaster=false&bar_color=bec2c6&bar_color_cover=true&mode=dark">
   </a>
 </p>
 
+<kbd>$\color{#01002f}{\text{✹- names Mark/Markus}}$</kbd>
+
+
+<kbd>$\color{#070076}{\text{July 28th -bday}}$</kbd>
+
+
+<kbd>$\color{#b4309a}{\text{Artist + Programmist(?)}}$</kbd>
+
+
+<kbd>$\color{#f9675c}{\text{Int MC SMP's/ARG's fans, pls}}$</kbd>
+
+
+<kbd>$\color{#ffad2a}{\text{Krita, Clip Studio Paint, HiPaint, Ibis Paint user(laptop+tablet) -✺}}$</kbd>
+
+> [!CAUTION]
+> I can be annoying cus of my spam-laugh, my humor, my "swear language" & other.
