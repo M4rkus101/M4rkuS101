@@ -22,19 +22,19 @@
   </a>
 </p>
 
-<kbd>$\color{#01002f}{\text{✹- names Mark/Markus}}$</kbd>
+<kbd>$\color{#1c0e31}{\text{✹- names Mark/Markus}}$</kbd>
 
 
-<kbd>$\color{#070076}{\text{July 28th -bday}}$</kbd>
+<kbd>$\color{#251836}{\text{July 28th -bday}}$</kbd>
 
 
-<kbd>$\color{#b4309a}{\text{Artist + Programmist(?)}}$</kbd>
+<kbd>$\color{#392338}{\text{Artist + Programmist(?)}}$</kbd>
 
 
-<kbd>$\color{#f9675c}{\text{Int MC SMP's/ARG's fans, pls}}$</kbd>
+<kbd>$\color{#5f4c44}{\text{Int MC SMP's/ARG's fans, pls}}$</kbd>
 
 
-<kbd>$\color{#ffad2a}{\text{Krita, Clip Studio Paint, HiPaint, Ibis Paint user(laptop+tablet) -✺}}$</kbd>
+<kbd>$\color{#826d59}{\text{Krita, Clip Studio Paint, HiPaint, Ibis Paint user(laptop+tablet) -✺}}$</kbd>
 
 > [!CAUTION]
 > I can be annoying cus of my spam-laugh, my humor, my "swear language" & other.
