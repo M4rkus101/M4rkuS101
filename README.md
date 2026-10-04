@@ -1,6 +1,10 @@
 <p align="center">
 <a href="https://hits.sh/github.com/M4rkuS101/"><img alt="Hits" src="https://hits.sh/github.com/M4rkuS101.svg?style=for-the-badge&label=ARG%20lover&color=555555&labelColor=000000"/></a>
- 
+
+ <p align="center">
+<img width="258" height="284" alt="Дизайн_без_названия-removebg-preview" src="https://github.com/user-attachments/assets/7111ca91-7e6f-4218-9b34-24589cc3251c" />
+
+
 <p align="center">
  <a href="https://discord.com/users/1356558958222901299">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
