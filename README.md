@@ -2,7 +2,7 @@
 <a href="https://hits.sh/github.com/M4rkuS101/"><img alt="Hits" src="https://hits.sh/github.com/M4rkuS101.svg?style=for-the-badge&label=ARG%20lover&color=555555&labelColor=000000"/></a>
 
  <p align="center">
-<img width="203" height="219" alt="Дизайн_без_названия-removebg-preview" src="https://github.com/user-attachments/assets/7111ca91-7e6f-4218-9b34-24589cc3251c" />
+<img width="223" height="239" alt="Дизайн_без_названия-removebg-preview" src="https://github.com/user-attachments/assets/7111ca91-7e6f-4218-9b34-24589cc3251c" />
 
 
 <p align="center">
@@ -22,19 +22,3 @@
   </a>
 </p>
 
-<kbd>$\color{#1c0e31}{\text{✹- names Mark/Markus}}$</kbd>
-
-
-<kbd>$\color{#251836}{\text{July 28th -bday}}$</kbd>
-
-
-<kbd>$\color{#392338}{\text{Artist + Programmist(?)}}$</kbd>
-
-
-<kbd>$\color{#5f4c44}{\text{Int MC SMP's/ARG's fans, pls}}$</kbd>
-
-
-<kbd>$\color{#826d59}{\text{Krita, Clip Studio Paint, HiPaint, Ibis Paint user(laptop+tablet) -✺}}$</kbd>
-
-> [!CAUTION]
-> I can be annoying cus of my spam-laugh, my humor, my "swear language" & other.
