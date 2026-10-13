@@ -14,10 +14,7 @@
 </details>
    
  <p align="center">
-<img width="249" height="426" alt="Дизайн_без_названия-removebg-preview" src="https://github.com/user-attachments/assets/8930f67c-5f62-4e06-8568-a737aa5c86fc" />
-
-
-
+<img width="209" height="396" alt="Дизайн_без_названия__2_-removebg-preview" src="https://github.com/user-attachments/assets/0c767beb-3f9e-44d8-b671-31ebb9bdfc00" />
 
 
 <p align="center">
