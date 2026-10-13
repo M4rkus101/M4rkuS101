@@ -14,7 +14,8 @@
 </details>
    
  <p align="center">
-<img width="223" height="239" alt="Дизайн_без_названия-removebg-preview" src="https://github.com/user-attachments/assets/7111ca91-7e6f-4218-9b34-24589cc3251c" />
+<img width="209" height="386" alt="Знімок_екрана_2026-10-13_173522-removebg-preview" src="https://github.com/user-attachments/assets/051f6ef9-4bea-4de7-ac87-36349ebff85a" />
+
 
 
 <p align="center">
