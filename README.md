@@ -19,10 +19,10 @@
 
 <p align="center">
  <a href="https://discord.com/users/1356558958222901299">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+    <img src="https://img.shields.io/badge/Discord-41516e?style=for-the-badge&logo=discord&logoColor=white">
   </a>
     <a href="https://www.roblox.com/users/7204730988/profile">
-    <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white">
+    <img src="https://img.shields.io/badge/Roblox-1c0e31?style=for-the-badge&logo=roblox&logoColor=white">
   </a>
   <a href="https://m4rkus101.atabook.org/" target="_blank">
   <img s
