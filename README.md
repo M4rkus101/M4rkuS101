@@ -19,19 +19,18 @@
 
 <p align="center">
  <a href="https://discord.com/users/1356558958222901299">
-    <img src="https://img.shields.io/badge/Discord-41516e?style=for-the-badge&logo=discord&logoColor=white">
+    <img src="https://img.shields.io/badge/Discord-2c3466?style=for-the-badge&logo=discord&logoColor=white">
   </a>
     <a href="https://www.roblox.com/users/7204730988/profile">
     <img src="https://img.shields.io/badge/Roblox-1c0e31?style=for-the-badge&logo=roblox&logoColor=white">
   </a>
-  <a href="https://m4rkus101.atabook.org/" target="_blank">
-  <img s
-   rc="https://img.shields.io/badge/ATABOOK-1a73e8?style=for-the-badge&logo=bookstack&logoColor=white">
+  <a href="https://m4rkus101.atabook.org/">
+  <img src="https://img.shields.io/badge/ATABOOK-6b8691?style=for-the-badge&logo=bookstack&logoColor=white">
 </a>
+
    
 <p align="center">
    <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31b7rlheccpc6whjf7ppqftkif6y&cover_image=true&theme=spotify-embed&show_offline=false&background_color=111113&interchange=false&profanity=false&hide_remaster=false&bar_color=bec2c6&bar_color_cover=true&mode=dark">
   </a>
 </p>
-
