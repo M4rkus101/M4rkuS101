@@ -33,3 +33,8 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31b7rlheccpc6whjf7ppqftkif6y&cover_image=true&theme=novatorem&show_offline=true&background_color=271932&interchange=false&profanity=false&hide_remaster=false&bar_color=3d2546&bar_color_cover=false">
   </a>
 </p>
+
+
+
+<p align="center">
+<img width="423" height="171" alt="image" src="https://github.com/user-attachments/assets/58c6558f-ba0b-414d-bee4-411266f27cf9" />
