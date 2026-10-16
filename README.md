@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://hits.sh/github.com/M4rkuS101/"><img alt="Hits" src="https://hits.sh/github.com/M4rkuS101.svg?style=flat-square&label=ARG%20Lover&color=362337&labelColor=251835"/></a>
+<a href="https://hits.sh/github.com/M4rkuS101/"><img alt="Hits" src="https://hits.sh/github.com/M4rkuS101.svg?style=flat-square&label=new%20horizon&color=c85868&labelColor=2a99f3"/></a>
 
   <p><p align="center">
 <details>
@@ -14,18 +14,19 @@
 </details>
    
  <p align="center">
-<img width="209" height="396" alt="Дизайн_без_названия__2_-removebg-preview" src="https://github.com/user-attachments/assets/0c767beb-3f9e-44d8-b671-31ebb9bdfc00" />
+<img width="799" height="124" alt="mqdefault_20261016124131" src="https://github.com/user-attachments/assets/ce6c86d1-a658-486b-9796-a70ae3ad7442" />
+
 
 
 <p align="center">
  <a href="https://discord.com/users/1356558958222901299">
-    <img src="https://img.shields.io/badge/Discord-2c3466?style=for-the-badge&logo=discord&logoColor=white">
+    <img src="https://img.shields.io/badge/Discord-2b72ce?style=for-the-badge&logo=discord&logoColor=white">
   </a>
     <a href="https://www.roblox.com/users/7204730988/profile">
-    <img src="https://img.shields.io/badge/Roblox-1c0e31?style=for-the-badge&logo=roblox&logoColor=white">
+    <img src="https://img.shields.io/badge/Roblox-08011f?style=for-the-badge&logo=roblox&logoColor=white">
   </a>
   <a href="https://m4rkus101.atabook.org/">
-  <img src="https://img.shields.io/badge/ATABOOK-6b8691?style=for-the-badge&logo=bookstack&logoColor=white">
+  <img src="https://img.shields.io/badge/ATABOOK-2a99f3?style=for-the-badge&logo=bookstack&logoColor=white">
 </a>
 
 <p align="center">
