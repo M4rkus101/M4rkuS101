@@ -3,7 +3,7 @@
 
   <p><p align="center">
 <details>
-  <summary><b>Thank uu !</b></summary>
+  <summary><b>Thank u !</b></summary>
   <br>
   <p><p align="center">
   <a href="https://github.com/Ponytowns-rewards">
