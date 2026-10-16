@@ -7,7 +7,7 @@
   <br>
   <p><p align="center">
   <a href="https://github.com/Ponytowns-rewards">
-    <img src="https://github.com/user-attachments/assets/7011e420-6b98-4e55-a99c-c620557eed22" />
+    Pony Town Rewards
   </a>
 </p>
 </p>
