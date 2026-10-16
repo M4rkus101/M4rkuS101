@@ -14,7 +14,7 @@
 </details>
    
  <p align="center">
-<img width="799" height="124" alt="mqdefault_20261016124131" src="https://github.com/user-attachments/assets/ce6c86d1-a658-486b-9796-a70ae3ad7442" />
+<img width="999" height="148" alt="mqdefault_20261016124131" src="https://github.com/user-attachments/assets/ce6c86d1-a658-486b-9796-a70ae3ad7442" />
 
 
 
