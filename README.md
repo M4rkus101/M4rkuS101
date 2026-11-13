@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://hits.sh/github.com/M4rkuS101/"><img alt="Hits" src="https://hits.sh/github.com/M4rkuS101.svg?style=flat-square&label=Liebe&color=e2e1cb&labelColor=1f1f1f"/></a>
+<a href="https://hits.sh/github.com/M4rkuS101/"><img alt="Hits" src="https://hits.sh/github.com/M4rkuS101.svg?style=flat-square&label=Liebe&color=999999&labelColor=1f1f1f&logo=slug"/></a>
 
   <p><p align="center">
 <Details>
