@@ -35,6 +35,7 @@
 </p>
 
 <p align="center">
-<img width="145" height="166" alt="image" src="https://github.com/user-attachments/assets/9175fe21-f30d-4435-b7f3-27d4e1e4c7b6" />
+<img width="145" height="166" alt="Дизайн без названия (7)" src="https://github.com/user-attachments/assets/db3d5ce9-0c79-4ee3-9c49-f0d1274fa9a6" />
+<img width="163" height="171" alt="Дизайн без названия (8)" src="https://github.com/user-attachments/assets/6e644a7d-d1fc-4b20-bbbc-7a57eea9f3a6" />
 <p align="center">
 𝙢𝙚 𝙩𝙝𝙚 𝙨𝙩𝙪𝙥𝙞𝙙 𝙙𝙧𝙚𝙖𝙢𝙖𝙡𝙞𝙩𝙮'𝙨 𝙥𝙡𝙖𝙮𝙚𝙧 𝙘𝙤𝙧𝙚 :trollface:
