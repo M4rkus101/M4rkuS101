@@ -34,3 +34,7 @@
   </a>
 </p>
 
+<p align="center">
+<img width="145" height="166" alt="image" src="https://github.com/user-attachments/assets/9175fe21-f30d-4435-b7f3-27d4e1e4c7b6" />
+<p align="center">
+me so stoopid :trollface:
