@@ -37,4 +37,4 @@
 <p align="center">
 <img width="145" height="166" alt="image" src="https://github.com/user-attachments/assets/9175fe21-f30d-4435-b7f3-27d4e1e4c7b6" />
 <p align="center">
-𝙢𝙚 𝙩𝙝𝙚 𝙨𝙩𝙪𝙥𝙞𝙙 𝙙𝙧𝙚𝙖𝙢𝙖𝙡𝙞𝙩𝙮'𝙨 𝙥𝙡𝙖𝙮𝙚𝙧 𝙘𝙤𝙧𝙚:trollface:
+𝙢𝙚 𝙩𝙝𝙚 𝙨𝙩𝙪𝙥𝙞𝙙 𝙙𝙧𝙚𝙖𝙢𝙖𝙡𝙞𝙩𝙮'𝙨 𝙥𝙡𝙖𝙮𝙚𝙧 𝙘𝙤𝙧𝙚 :trollface:
