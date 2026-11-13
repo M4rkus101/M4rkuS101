@@ -1,6 +1,9 @@
 <p align="center">
-<a href="https://hits.sh/github.com/M4rkuS101/"><img alt="Hits" src="https://hits.sh/github.com/M4rkuS101.svg?style=flat-square&label=Liebe&color=999999&labelColor=1f1f1f&logo=slug"/></a>
+<img width="186" height="176" alt="image" src="https://github.com/user-attachments/assets/be4ade5b-64d9-46e3-aaf3-d2ecd41f84af" />
 
+<p align="center">
+<a href="https://hits.sh/github.com/M4rkuS101/"><img alt="Hits" src="https://hits.sh/github.com/M4rkuS101.svg?style=flat-square&label=Liebe&color=999999&labelColor=1f1f1f&logo=slug"/></a>
+  
   <p><p align="center">
 <Details>
   <summary><b>pt's...</b></summary>
