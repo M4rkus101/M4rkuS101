@@ -6,7 +6,7 @@
   
   <p><p align="center">
 <Details>
-  <summary><b>pt's...</b></summary>
+  <summary><b>ԹԵ'Տ...</b></summary>
   <br>
   <p><p align="center">
   <a href="https://github.com/Ponytowns-rewards">
@@ -22,13 +22,13 @@
 
 <p align="center">
  <a href="https://discord.com/users/1356558958222901299">
-    <img src="https://img.shields.io/badge/discord-668d93?style=for-the-badge&logo=discord&logoColor=white">
+    <img src="https://img.shields.io/badge/ժíՏϲօɾժ-668d93?style=for-the-badge&logo=discord&logoColor=white">
   </a>
     <a href="https://www.roblox.com/users/7204730988/profile">
-    <img src="https://img.shields.io/badge/Roblox-1f1f1f?style=for-the-badge&logo=roblox&logoColor=white">
+    <img src="https://img.shields.io/badge/ɾօҍӀօ×-1f1f1f?style=for-the-badge&logo=roblox&logoColor=white">
   </a>
   <a href="https://m4rkus101.atabook.org/">
-  <img src="https://img.shields.io/badge/ATABOOK-999999?style=for-the-badge&logo=bookstack&logoColor=white">
+  <img src="https://img.shields.io/badge/ɑԵɑҍօօƘ-999999?style=for-the-badge&logo=bookstack&logoColor=white">
 </a>
 
 <p align="center">
@@ -41,4 +41,4 @@
 <img width="145" height="166" alt="Дизайн без названия (7)" src="https://github.com/user-attachments/assets/db3d5ce9-0c79-4ee3-9c49-f0d1274fa9a6" />
 <img width="163" height="171" alt="Дизайн без названия (8)" src="https://github.com/user-attachments/assets/6e644a7d-d1fc-4b20-bbbc-7a57eea9f3a6" />
 <p align="center">
-𝙢𝙚 𝙩𝙝𝙚 𝙨𝙩𝙪𝙥𝙞𝙙 𝙙𝙧𝙚𝙖𝙢𝙖𝙡𝙞𝙩𝙮'𝙨 𝙥𝙡𝙖𝙮𝙚𝙧 𝙘𝙤𝙧𝙚 :trollface:
+ʍҽ Եհҽ ՏԵմԹíժ ժɾҽɑʍɑӀíԵվ'Տ ԹӀɑվҽɾ ϲօɾҽ :trollface:
