@@ -2,7 +2,7 @@
 <img width="186" height="176" alt="image" src="https://github.com/user-attachments/assets/be4ade5b-64d9-46e3-aaf3-d2ecd41f84af" />
 
 <p align="center">
-<a href="https://hits.sh/github.com/M4rkuS101/"><img alt="Hits" src="https://hits.sh/github.com/M4rkuS101.svg?style=flat-square&label=Liebe&color=999999&labelColor=1f1f1f&logo=slug"/></a>
+<a href="https://hits.sh/github.com/M4rkuS101/"><img alt="Hits" src="https://hits.sh/github.com/M4rkuS101.svg?style=flat-square&label=Liebe%2C%20so%20klingt%20liebe.&color=999999&labelColor=1f1f1f&logo=base64"/></a>
   
   <p><p align="center">
 <Details>
