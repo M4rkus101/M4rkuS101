@@ -19,26 +19,25 @@
  <p align="center">
 <img width="795" height="480" alt="Дизайн без названия (3)" src="https://github.com/user-attachments/assets/114340ed-2f9f-4898-abb9-2c863a95d9f7" />
 
-
-<p align="center">
- <a href="https://discord.com/users/1356558958222901299">
-    <img src="https://img.shields.io/badge/ժíՏϲօɾժ-668d93?style=for-the-badge&logo=discord&logoColor=white">
+   <p><p align="center">
+  <a href="https://discord.com/users/1356558958222901299">
+    ໓iş¢໐r໓
   </a>
-    <a href="https://www.roblox.com/users/7204730988/profile">
-    <img src="https://img.shields.io/badge/ɾօҍӀօ×-1f1f1f?style=for-the-badge&logo=roblox&logoColor=white">
+    <p><p align="center">
+  <a href="https://www.roblox.com/users/7204730988/profile">
+    R໐๖l໐x
   </a>
+    <p><p align="center">
   <a href="https://m4rkus101.atabook.org/">
-  <img src="https://img.shields.io/badge/ɑԵɑҍօօƘ-999999?style=for-the-badge&logo=bookstack&logoColor=white">
-</a>
+    คtค๖໐໐k
+  </a>
+    <p><p align="center">
+  <a href="https://pronouns.cc/@TBoTV-M4rkus101">
+    Pr໐ຖ໐นຖş.¢¢
+  </a>
 
 <p align="center">
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31b7rlheccpc6whjf7ppqftkif6y&cover_image=true&theme=novatorem&show_offline=true&background_color=271932&interchange=false&profanity=false&hide_remaster=false&bar_color=3d2546&bar_color_cover=false">
 
   </a>
 </p>
-
-<p align="center">
-<img width="145" height="166" alt="Дизайн без названия (7)" src="https://github.com/user-attachments/assets/db3d5ce9-0c79-4ee3-9c49-f0d1274fa9a6" />
-<img width="163" height="171" alt="Дизайн без названия (8)" src="https://github.com/user-attachments/assets/6e644a7d-d1fc-4b20-bbbc-7a57eea9f3a6" />
-<p align="center">
-ʍҽ Եհҽ ՏԵմԹíժ ժɾҽɑʍɑӀíԵվ'Տ ԹӀɑվҽɾ ϲօɾҽ :trollface:
