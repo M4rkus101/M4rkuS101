@@ -20,8 +20,11 @@
 <img width="795" height="480" alt="Дизайн без названия (3)" src="https://github.com/user-attachments/assets/114340ed-2f9f-4898-abb9-2c863a95d9f7" />
 
  <p align="center">
-<img width="98" height="57" alt="Дизайн без названия (11)" src="https://github.com/user-attachments/assets/cf73a669-2e54-484e-827c-0c6a68d05173" />
-<img width="98" height="57" alt="Дизайн без названия (10)" src="https://github.com/user-attachments/assets/c8ae0f59-431d-46d6-8d17-87ae11a4e6dd" />
+<img width="136" height="36" alt="589197563735745883" src="https://github.com/user-attachments/assets/10144206-3262-4df7-94f6-7e5daf8e562d" />
+<img width="136" height="36" alt="Made an ace user box 😳💖" src="https://github.com/user-attachments/assets/90730c9c-5c98-4b13-b4d4-54198cf2ff07" />
+<img width="136" height="36" alt="userboxings" src="https://github.com/user-attachments/assets/b3f0d076-e28a-4aaa-ba58-ff3f631ea71c" />
+<img width="136" height="36" alt="620089442437427642" src="https://github.com/user-attachments/assets/afe48788-c372-4436-98d7-87b0d92733d8" />
+
 
 
 
