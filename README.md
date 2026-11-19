@@ -49,6 +49,11 @@
   <a href="https://guns.lol/Mark101">
     ງนຖş.l໐l
   </a>
+      &
+        </a>
+  <a href="https://frozi.lol/m4rkus101">
+    Fr໐ຊi.l໐l
+  </a>
 
 <p align="center">
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31b7rlheccpc6whjf7ppqftkif6y&cover_image=true&theme=novatorem&show_offline=true&background_color=271932&interchange=false&profanity=false&hide_remaster=false&bar_color=3d2546&bar_color_cover=false">
