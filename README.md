@@ -19,6 +19,12 @@
  <p align="center">
 <img width="795" height="480" alt="Дизайн без названия (3)" src="https://github.com/user-attachments/assets/114340ed-2f9f-4898-abb9-2c863a95d9f7" />
 
+ <p align="center">
+<img width="98" height="57" alt="Дизайн без названия (11)" src="https://github.com/user-attachments/assets/cf73a669-2e54-484e-827c-0c6a68d05173" />
+<img width="98" height="57" alt="Дизайн без названия (10)" src="https://github.com/user-attachments/assets/c8ae0f59-431d-46d6-8d17-87ae11a4e6dd" />
+
+
+
    <p><p align="center">
   <a href="https://discord.com/users/1356558958222901299">
     ໓iş¢໐r໓
