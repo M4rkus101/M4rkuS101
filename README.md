@@ -43,6 +43,11 @@
     <p><p align="center">
   <a href="https://pronouns.cc/@TBoTV-M4rkus101">
     Pr໐ຖ໐นຖş.¢¢
+  </a>  
+  </a>
+    <p><p align="center">
+  <a href="https://guns.lol/Mark101">
+    ງนຖş.l໐l
   </a>
 
 <p align="center">
