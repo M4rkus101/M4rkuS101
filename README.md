@@ -10,7 +10,7 @@
   <br>
   <p><p align="center">
   <a href="https://github.com/Ponytowns-rewards">
-    <img width="352" height="25" alt="image" src="https://github.com/user-attachments/assets/511fc5b8-e77d-44a1-9f04-f3a955f6c6ea" />
+    <img width="287" height="37" alt="image" src="https://github.com/user-attachments/assets/bf3b83f5-16a3-4a24-8607-066b2291c599" />
   </a>
 </p>
 </p>
