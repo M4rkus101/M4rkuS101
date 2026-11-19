@@ -25,7 +25,22 @@
 <img width="136" height="36" alt="userboxings" src="https://github.com/user-attachments/assets/b3f0d076-e28a-4aaa-ba58-ff3f631ea71c" />
 <img width="136" height="36" alt="620089442437427642" src="https://github.com/user-attachments/assets/afe48788-c372-4436-98d7-87b0d92733d8" />
 
+<Details>
+  <summary><b>ค๖໐นt ๓ē.</b></summary>
+  <br>
+  <p><p align="center">
+-I'๓ ค şhฯ pērş໐ຖ, I ¢คຖ ๖ē ຖērง໐นş ຟhēຖ iຖt ຟith ştrคຖງērş.
+  <p><p align="center">
+-คlຟคฯş frēē t໐ ¢น໓໓lē, ๖นt ໐ຖlฯ ຟith I'๓ คl໐ຖē.
 
+๓คiຖ fคຖ໓໐๓ş. :
+
+໓rēค๓คlitฯ, T๖໐Tง(2 ค¢tş), ค ๖r໐kēຖ ໓rēค๓, FຖF งş I๓p ง4, คlคຖ คຖ໓ Liค๓, ໓นคlitฯ, ง໐¢คl/นtคนl໐i໓, ๖ēฯ໐ຖ໓ Thē Şkฯ๖໐x, ๓¢ คRງ'ş
+  </a>
+</p>
+</p>
+</details>
+   
 
 
    <p><p align="center">
