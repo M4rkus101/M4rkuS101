@@ -32,25 +32,25 @@
   <a href="https://discord.com/users/1356558958222901299">
     ໓iş¢໐r໓
   </a>
-    <p><p align="center">
+,
   <a href="https://www.roblox.com/users/7204730988/profile">
     R໐๖l໐x
   </a>
-    <p><p align="center">
+,   
   <a href="https://m4rkus101.atabook.org/">
     คtค๖໐໐k
   </a>
-    <p><p align="center">
+,
   <a href="https://pronouns.cc/@TBoTV-M4rkus101">
     Pr໐ຖ໐นຖş.¢¢
   </a>  
-  </a>
-    <p><p align="center">
+,
+        </a>
   <a href="https://guns.lol/Mark101">
     ງนຖş.l໐l
   </a>
-      &
-        </a>
+,
+  </a>
   <a href="https://frozi.lol/m4rkus101">
     Fr໐ຊi.l໐l
   </a>
