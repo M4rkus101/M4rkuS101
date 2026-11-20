@@ -42,6 +42,26 @@
 Fคง໐ritē Şiຖງērş. :
 
 คຖ໓ ໐ຖē, ¢นrrēຖt ว໐ฯş, Tง ງirl, วค¢k Ştคน๖ēr, ๓ค¢ ໓ē๓คr¢໐, ¢rฯştคl ¢คştlēş, Pคştēl ງh໐ştş, ຟhirr, คlēx ງ, Thrēē ໓คฯş ງrค¢ē
+
+  <p><p align="center">
+<img width="99" height="56" alt="aesthetic_46_by_scorbuniis_ddcs23h-fullview" src="https://github.com/user-attachments/assets/5db6276f-270f-4676-bca5-d9d049436ca6" />
+    
+<img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/eca4a94a-0950-4ae3-94b2-940c7593678b" />
+
+<img width="99" height="56" alt="dbi9dzj-6d755268-8dc3-4833-bcad-e885c8b4e457" src="https://github.com/user-attachments/assets/56647e0c-8a9f-4d24-b896-5175bd889162" />
+
+<img width="101" height="57" alt="image" src="https://github.com/user-attachments/assets/06478c0b-1b0c-410a-bbab-73b17f35517f" />
+
+<img width="99" height="56" alt="dbiiw4d-b3102d7c-55cc-44aa-ba51-4593ddb7d441" src="https://github.com/user-attachments/assets/6814b4e6-3fe2-4e75-b422-5ea36a0b1174" />
+
+<img width="99" height="56" alt="das24n2-3f72651d-91b5-4303-9af5-d088db24f312" src="https://github.com/user-attachments/assets/6db4171d-38b1-46cd-82cc-5d3f1879cfc7" />
+
+<img width="99" height="55" alt="dbfuzzf-d32bd7db-cf74-41eb-b7c1-c21effe6b3ed" src="https://github.com/user-attachments/assets/3a171733-f5ed-498f-8a48-0639211a051c" />
+
+<img width="99" height="55" alt="dbcx3uy-06797352-bb5c-413c-92dd-8b8a47a400a3" src="https://github.com/user-attachments/assets/826ea033-6d3b-4e13-9118-f28b75d9b1eb" />
+
+<img width="99" height="56" alt="Project Mirai Vocaloid Stamp by hissatsugirl" src="https://github.com/user-attachments/assets/c0b7456a-a3df-4540-ac69-0f8e53387d33" />
+
   </a>
 </p>
 </p>
