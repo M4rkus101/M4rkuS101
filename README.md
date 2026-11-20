@@ -31,9 +31,12 @@
 
 <img width="99" height="56" alt="dcfrqp5-3c9c053c-d851-44c2-8862-a50dd9128dc8" src="https://github.com/user-attachments/assets/c6037955-d212-4a89-bb90-7ff7ed209328" />
    
-<img width="99" height="56" alt="Vocaloid Twins by azianwolfdoll" src="https://github.com/user-attachments/assets/545b899a-c151-46d4-8f66-2ec14b51a408" />
+<img width="99" height="56" alt="dl7y92p-a0d7466a-5adb-459a-ab36-d959a24bcc15" src="https://github.com/user-attachments/assets/72c48659-2712-455a-b34f-820ce4b6b3a4" />
 
 <img width="99" height="56" alt="dcfrqpe-115f09ee-486c-4224-bc2b-b874bf55ca0c" src="https://github.com/user-attachments/assets/779bebf2-7bf7-4911-a6ef-08d2018ba793" />
+
+<img width="99" height="56" alt="dh9yp8t-e426146b-e97e-49e8-9d35-a6fe0947c3c2" src="https://github.com/user-attachments/assets/01b73491-c7a6-4bf4-8022-c35af6012bb3" />
+
 
   <p><p align="center">
 -I'๓ ค şhฯ pērş໐ຖ, I ¢คຖ ๖ē ຖērง໐นş ຟhēຖ iຖt ຟith ştrคຖງērş.
