@@ -27,7 +27,7 @@
 
   <img width="99" height="56" alt="depjitf-39d809e6-7268-43ee-839b-a46b79118152" src="https://github.com/user-attachments/assets/117cba6a-8675-4c0e-b091-c5eec8c2616b" />
 
-<img width="99" height="56" alt="Miku Absolute HMO - Stamp by aristodemelugix" src="https://github.com/user-attachments/assets/fb6bc0f9-b044-4256-ab99-db66a4269986" />
+<img width="99" height="56" alt="d70vg8i-eda161f7-31b4-4732-8dc3-394576afd248" src="https://github.com/user-attachments/assets/11935483-5cbb-4145-9f5d-7fe23302f4d9" />
 
 <img width="99" height="56" alt="dcfrqp5-3c9c053c-d851-44c2-8862-a50dd9128dc8" src="https://github.com/user-attachments/assets/c6037955-d212-4a89-bb90-7ff7ed209328" />
    
