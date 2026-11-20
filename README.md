@@ -39,7 +39,7 @@
     <img width="99" height="56" alt="d70vg8i-eda161f7-31b4-4732-8dc3-394576afd248" src="https://github.com/user-attachments/assets/11935483-5cbb-4145-9f5d-7fe23302f4d9" />
     <img width="99" height="56" alt="dl7y92p-a0d7466a-5adb-459a-ab36-d959a24bcc15" src="https://github.com/user-attachments/assets/72c48659-2712-455a-b34f-820ce4b6b3a4" />
     <img width="99" height="56" alt="dh9yp8t-e426146b-e97e-49e8-9d35-a6fe0947c3c2" src="https://github.com/user-attachments/assets/01b73491-c7a6-4bf4-8022-c35af6012bb3" />
-    <img width="99" height="56" alt="dl7y92p-a0d7466a-5adb-459a-ab36-d959a24bcc15" src="https://github.com/user-attachments/assets/bf38e228-2aec-4150-8532-fe5beee72cbd" />
+    <img width="99" height="56" alt="d7bwy69-62f5460c-bc7a-43ef-8ad4-af790aaae596" src="https://github.com/user-attachments/assets/64dea312-c855-47a7-b009-e60b96ed2330" />
 
 <p><p align="center">
 ๓คiຖ fคຖ໓໐๓ş. :
