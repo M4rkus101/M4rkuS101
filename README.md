@@ -23,10 +23,12 @@
   <summary><b>ค๖໐นt ๓ē.</b></summary>
   <br>
  <p align="center">
-<img width="136" height="36" alt="589197563735745883" src="https://github.com/user-attachments/assets/10144206-3262-4df7-94f6-7e5daf8e562d" />
-<img width="136" height="36" alt="Made an ace user box 😳💖" src="https://github.com/user-attachments/assets/90730c9c-5c98-4b13-b4d4-54198cf2ff07" />
-<img width="136" height="36" alt="userboxings" src="https://github.com/user-attachments/assets/b3f0d076-e28a-4aaa-ba58-ff3f631ea71c" />
-<img width="136" height="36" alt="620089442437427642" src="https://github.com/user-attachments/assets/afe48788-c372-4436-98d7-87b0d92733d8" />
+<img width="99" height="56" alt="Project Mirai Vocaloid Stamp by hissatsugirl" src="https://github.com/user-attachments/assets/c0b7456a-a3df-4540-ac69-0f8e53387d33" />
+  
+<img width="99" height="56" alt="Miku Absolute HMO - Stamp by aristodemelugix" src="https://github.com/user-attachments/assets/fb6bc0f9-b044-4256-ab99-db66a4269986" />
+   
+<img width="99" height="56" alt="Vocaloid Twins by azianwolfdoll" src="https://github.com/user-attachments/assets/545b899a-c151-46d4-8f66-2ec14b51a408" />
+
   <p><p align="center">
 -I'๓ ค şhฯ pērş໐ຖ, I ¢คຖ ๖ē ຖērง໐นş ຟhēຖ iຖt ຟith ştrคຖງērş.
   <p><p align="center">
@@ -59,8 +61,6 @@ Fคง໐ritē Şiຖງērş. :
 <img width="99" height="55" alt="dbfuzzf-d32bd7db-cf74-41eb-b7c1-c21effe6b3ed" src="https://github.com/user-attachments/assets/3a171733-f5ed-498f-8a48-0639211a051c" />
 
 <img width="99" height="55" alt="dbcx3uy-06797352-bb5c-413c-92dd-8b8a47a400a3" src="https://github.com/user-attachments/assets/826ea033-6d3b-4e13-9118-f28b75d9b1eb" />
-
-<img width="99" height="56" alt="Project Mirai Vocaloid Stamp by hissatsugirl" src="https://github.com/user-attachments/assets/c0b7456a-a3df-4540-ac69-0f8e53387d33" />
 
   </a>
 </p>
