@@ -12,68 +12,59 @@
 </p>
 </p>
 </details>
-   
+
+  <p><p align="right">
+<img src="https://media.tenor.com/twsaybsCPqMAAAAM/httyd-hiccup.gif" alt="Alt text">
+    
   <p><p align="left">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExam1rdDhyc2VldWJ0cXY2bHJyYmx2M2RoMnNqd29oOTN1eGNhNHlyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dsVpehrN1psulyzxmU/giphy.gif" alt="Alt text">
 
-    
-  <p><p align="right">
-<Details>
-  <summary><b>ค๖໐นt ๓ē.</b></summary>
-  <br>
- <p align="center">
- <img width="99" height="56" alt="depjitf-39d809e6-7268-43ee-839b-a46b79118152" src="https://github.com/user-attachments/assets/117cba6a-8675-4c0e-b091-c5eec8c2616b" />
 
-<img width="99" height="56" alt="dcfrqp5-3c9c053c-d851-44c2-8862-a50dd9128dc8" src="https://github.com/user-attachments/assets/c6037955-d212-4a89-bb90-7ff7ed209328" />
 
-<img width="99" height="56" alt="dcfrqpe-115f09ee-486c-4224-bc2b-b874bf55ca0c" src="https://github.com/user-attachments/assets/779bebf2-7bf7-4911-a6ef-08d2018ba793" />
-
-  <p><p align="center">
--I'๓ ค şhฯ pērş໐ຖ, I ¢คຖ ๖ē ຖērง໐นş ຟhēຖ iຖt ຟith ştrคຖງērş.
+<table border="0">
+  <tr>
+    <td width="60%">
+      <h3>   </h3>
+      <p>-I'๓ ค şhฯ pērş໐ຖ, I ¢คຖ ๖ē ຖērง໐นş ຟhēຖ iຖt ຟith ştrคຖງērş.
   <p><p align="center">
 -คlຟคฯş frēē t໐ ¢น໓໓lē, ๖นt ໐ຖlฯ ຟith I'๓ คl໐ຖē.
     
   <p><p align="center">
-<img width="99" height="56" alt="Project Mirai Vocaloid Stamp by hissatsugirl" src="https://github.com/user-attachments/assets/c0b7456a-a3df-4540-ac69-0f8e53387d33" />
+<img width="99" height="56" alt="httyd4" src="https://github.com/user-attachments/assets/d6559a51-f2be-4a47-b137-8f223ca31bf3" />
     <img width="99" height="56" alt="d70vg8i-eda161f7-31b4-4732-8dc3-394576afd248" src="https://github.com/user-attachments/assets/11935483-5cbb-4145-9f5d-7fe23302f4d9" />
-    <img width="99" height="56" alt="dl7y92p-a0d7466a-5adb-459a-ab36-d959a24bcc15" src="https://github.com/user-attachments/assets/72c48659-2712-455a-b34f-820ce4b6b3a4" />
-    <img width="99" height="56" alt="dh9yp8t-e426146b-e97e-49e8-9d35-a6fe0947c3c2" src="https://github.com/user-attachments/assets/01b73491-c7a6-4bf4-8022-c35af6012bb3" />
     <img width="99" height="56" alt="d7bwy69-62f5460c-bc7a-43ef-8ad4-af790aaae596" src="https://github.com/user-attachments/assets/64dea312-c855-47a7-b009-e60b96ed2330" />
+<img width="99" height="56" alt="d7pc1pr-7c3a6348-6586-4dc4-aae5-a9d541affc0e" src="https://github.com/user-attachments/assets/a3babd12-1cb4-40b2-9a55-992c694d8cc1" />
 
 <p><p align="center">
 ๓คiຖ fคຖ໓໐๓ş. :
   <p><p align="center">
 ໓rēค๓คlitฯ, T๖໐Tง(2 ค¢tş), ค ๖r໐kēຖ ໓rēค๓, FຖF งş I๓p ง4, R໐໓ค๓rix, คlคຖ คຖ໓ Liค๓, ໓นคlitฯ, ง໐¢คl໐i໓, นtคนl໐i໓, ๖ēฯ໐ຖ໓ Thē Şkฯ๖໐x, ๓¢ คRງ'ş, ງē๓iຖi H໐๓ē Ēຖtērtคiຖ๓ēຖt, H໐ຟ T໐ Trคiຖ ฯ໐นr ໓rคງ໐ຖ
   <p><p align="center">
-    |
-  <p><p align="center">
-    <img width="99" height="57" alt="tv_girl_who_really_cares_stamp_by_toastdbagel_dhcgt9r-fullview" src="https://github.com/user-attachments/assets/0d2fba3e-b1bc-401d-8888-c2ce24193afe" />
-      <p><p align="center">
+    
+
+ <p><p align="center">
 Fคง໐ritē Şiຖງērş. :
   <p><p align="center">
 คຖ໓ ໐ຖē, ¢นrrēຖt ว໐ฯş, Tง ງirl, วค¢k Ştคน๖ēr, ๓ค¢ ໓ē๓คr¢໐, ¢rฯştคl ¢คştlēş, Pคştēl ງh໐ştş, ຟhirr, คlēx ງ, Thrēē ໓คฯş ງrค¢ē
 
   <p><p align="center">
-<img width="99" height="56" alt="aesthetic_46_by_scorbuniis_ddcs23h-fullview" src="https://github.com/user-attachments/assets/5db6276f-270f-4676-bca5-d9d049436ca6" />
+<img width="99" height="56" alt="clouds" src="https://github.com/user-attachments/assets/79786595-78b7-49de-bc71-b9c87a12adfd" />
 
-<img width="99" height="56" alt="dbi9dzj-6d755268-8dc3-4833-bcad-e885c8b4e457" src="https://github.com/user-attachments/assets/56647e0c-8a9f-4d24-b896-5175bd889162" />
+<img width="99" height="56" alt="httyd3" src="https://github.com/user-attachments/assets/bddc07de-3efc-483b-887d-81180794b670" />
 
-<img width="101" height="57" alt="image" src="https://github.com/user-attachments/assets/06478c0b-1b0c-410a-bbab-73b17f35517f" />
+<img width="99" height="56" alt="httyd2" src="https://github.com/user-attachments/assets/e7218687-3613-47b7-974a-5717a42a9142" />
 
-<img width="99" height="56" alt="dbiiw4d-b3102d7c-55cc-44aa-ba51-4593ddb7d441" src="https://github.com/user-attachments/assets/6814b4e6-3fe2-4e75-b422-5ea36a0b1174" />
-
-<img width="99" height="56" alt="das24n2-3f72651d-91b5-4303-9af5-d088db24f312" src="https://github.com/user-attachments/assets/6db4171d-38b1-46cd-82cc-5d3f1879cfc7" />
-
-<img width="99" height="55" alt="dbfuzzf-d32bd7db-cf74-41eb-b7c1-c21effe6b3ed" src="https://github.com/user-attachments/assets/3a171733-f5ed-498f-8a48-0639211a051c" />
-
-<img width="99" height="55" alt="dbcx3uy-06797352-bb5c-413c-92dd-8b8a47a400a3" src="https://github.com/user-attachments/assets/826ea033-6d3b-4e13-9118-f28b75d9b1eb" />
+<img width="99" height="56" alt="httyd" src="https://github.com/user-attachments/assets/52cee5b8-22d3-4275-a6bd-192d89b0aa7c" />
 
 <img width="99" height="56" alt="dbb2aei-f824f106-6f9b-43a1-87ec-065cc6e8eb0e (1)" src="https://github.com/user-attachments/assets/5952f38d-17ac-4671-bdb8-8db8944cb965" />
+</p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dGN0MWRxdTdkZnRmb2drampvcTdleHZvbWI4NHdiNjdoMDVqaTF0bCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/9GJ23CP7dUZBcSNABE/giphy.webp" alt="Alt text">
+    </td>
+  </tr>
+</table>
 
-  </a>
-</p>
-</p>
-</details>
    
 
 
