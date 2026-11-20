@@ -29,9 +29,6 @@
 
 <img width="99" height="56" alt="dcfrqpe-115f09ee-486c-4224-bc2b-b874bf55ca0c" src="https://github.com/user-attachments/assets/779bebf2-7bf7-4911-a6ef-08d2018ba793" />
 
-<img width="99" height="56" alt="dh9yp8t-e426146b-e97e-49e8-9d35-a6fe0947c3c2" src="https://github.com/user-attachments/assets/01b73491-c7a6-4bf4-8022-c35af6012bb3" />
-
-
   <p><p align="center">
 -I'๓ ค şhฯ pērş໐ຖ, I ¢คຖ ๖ē ຖērง໐นş ຟhēຖ iຖt ຟith ştrคຖງērş.
   <p><p align="center">
@@ -42,6 +39,7 @@
     <img width="99" height="56" alt="d70vg8i-eda161f7-31b4-4732-8dc3-394576afd248" src="https://github.com/user-attachments/assets/11935483-5cbb-4145-9f5d-7fe23302f4d9" />
     <img width="99" height="56" alt="dl7y92p-a0d7466a-5adb-459a-ab36-d959a24bcc15" src="https://github.com/user-attachments/assets/72c48659-2712-455a-b34f-820ce4b6b3a4" />
     <img width="99" height="56" alt="dh9yp8t-e426146b-e97e-49e8-9d35-a6fe0947c3c2" src="https://github.com/user-attachments/assets/01b73491-c7a6-4bf4-8022-c35af6012bb3" />
+<p><p align="center">
 ๓คiຖ fคຖ໓໐๓ş. :
 
 ໓rēค๓คlitฯ, T๖໐Tง(2 ค¢tş), ค ๖r໐kēຖ ໓rēค๓, FຖF งş I๓p ง4, R໐໓ค๓rix, คlคຖ คຖ໓ Liค๓, ໓นคlitฯ, ง໐¢คl໐i໓, นtคนl໐i໓, ๖ēฯ໐ຖ໓ Thē Şkฯ๖໐x, ๓¢ คRງ'ş, ງē๓iຖi H໐๓ē Ēຖtērtคiຖ๓ēຖt, H໐ຟ T໐ Trคiຖ ฯ໐นr ໓rคງ໐ຖ
