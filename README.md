@@ -1,7 +1,4 @@
 <p align="center">
-<img width="186" height="176" alt="image" src="https://github.com/user-attachments/assets/be4ade5b-64d9-46e3-aaf3-d2ecd41f84af" />
-
-<p align="center">
 <a href="https://hits.sh/github.com/M4rkuS101/"><img alt="Hits" src="https://hits.sh/github.com/M4rkuS101.svg?style=flat-square&label=%E0%B9%94%D0%B3%D1%94%E0%B8%84%E0%B9%93%D1%94%D0%B3%E0%B8%A3&color=999999&labelColor=1f1f1f"/></a>
   
   <p><p align="center">
@@ -16,8 +13,8 @@
 </p>
 </details>
    
- <p align="center">
-
+ <p align="left">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExam1rdDhyc2VldWJ0cXY2bHJyYmx2M2RoMnNqd29oOTN1eGNhNHlyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dsVpehrN1psulyzxmU/giphy.gif" alt="Alt text">
 
 <Details>
   <summary><b>ค๖໐นt ๓ē.</b></summary>
