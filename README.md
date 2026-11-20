@@ -24,10 +24,16 @@
   <br>
  <p align="center">
 <img width="99" height="56" alt="Project Mirai Vocaloid Stamp by hissatsugirl" src="https://github.com/user-attachments/assets/c0b7456a-a3df-4540-ac69-0f8e53387d33" />
-  
+
+  <img width="99" height="56" alt="depjitf-39d809e6-7268-43ee-839b-a46b79118152" src="https://github.com/user-attachments/assets/117cba6a-8675-4c0e-b091-c5eec8c2616b" />
+
 <img width="99" height="56" alt="Miku Absolute HMO - Stamp by aristodemelugix" src="https://github.com/user-attachments/assets/fb6bc0f9-b044-4256-ab99-db66a4269986" />
+
+<img width="99" height="56" alt="dcfrqp5-3c9c053c-d851-44c2-8862-a50dd9128dc8" src="https://github.com/user-attachments/assets/c6037955-d212-4a89-bb90-7ff7ed209328" />
    
 <img width="99" height="56" alt="Vocaloid Twins by azianwolfdoll" src="https://github.com/user-attachments/assets/545b899a-c151-46d4-8f66-2ec14b51a408" />
+
+<img width="99" height="56" alt="dcfrqpe-115f09ee-486c-4224-bc2b-b874bf55ca0c" src="https://github.com/user-attachments/assets/779bebf2-7bf7-4911-a6ef-08d2018ba793" />
 
   <p><p align="center">
 -I'๓ ค şhฯ pērş໐ຖ, I ¢คຖ ๖ē ຖērง໐นş ຟhēຖ iຖt ຟith ştrคຖງērş.
