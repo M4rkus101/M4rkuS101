@@ -43,14 +43,15 @@
 
 <p><p align="center">
 ๓คiຖ fคຖ໓໐๓ş. :
-
+  <p><p align="center">
 ໓rēค๓คlitฯ, T๖໐Tง(2 ค¢tş), ค ๖r໐kēຖ ໓rēค๓, FຖF งş I๓p ง4, R໐໓ค๓rix, คlคຖ คຖ໓ Liค๓, ໓นคlitฯ, ง໐¢คl໐i໓, นtคนl໐i໓, ๖ēฯ໐ຖ໓ Thē Şkฯ๖໐x, ๓¢ คRງ'ş, ງē๓iຖi H໐๓ē Ēຖtērtคiຖ๓ēຖt, H໐ຟ T໐ Trคiຖ ฯ໐นr ໓rคງ໐ຖ
   <p><p align="center">
     |
-
-    
+  <p><p align="center">
+    <img width="99" height="57" alt="tv_girl_who_really_cares_stamp_by_toastdbagel_dhcgt9r-fullview" src="https://github.com/user-attachments/assets/0d2fba3e-b1bc-401d-8888-c2ce24193afe" />
+      <p><p align="center">
 Fคง໐ritē Şiຖງērş. :
-
+  <p><p align="center">
 คຖ໓ ໐ຖē, ¢นrrēຖt ว໐ฯş, Tง ງirl, วค¢k Ştคน๖ēr, ๓ค¢ ໓ē๓คr¢໐, ¢rฯştคl ¢คştlēş, Pคştēl ງh໐ştş, ຟhirr, คlēx ງ, Thrēē ໓คฯş ງrค¢ē
 
   <p><p align="center">
