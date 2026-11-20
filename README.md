@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://hits.sh/github.com/M4rkuS101/"><img alt="Hits" src="https://hits.sh/github.com/M4rkuS101.svg?style=flat-square&label=%E0%B9%94%D0%B3%D1%94%E0%B8%84%E0%B9%93%D1%94%D0%B3%E0%B8%A3&color=999999&labelColor=1f1f1f"/></a>
+<a href="https://hits.sh/github.com/M4rkuS101/"><img alt="Hits" src="https://hits.sh/github.com/M4rkuS101.svg?style=flat-square&label=%E0%BB%93r%E0%B8%84%E0%BA%87%E0%BB%90%E0%BA%96%20Ri%E0%BB%93%C4%93r%C5%9F&color=f3f3f3&labelColor=0d0d0f"/></a>
   
   <p><p align="center">
 <Details>
