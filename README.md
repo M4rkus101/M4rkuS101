@@ -17,7 +17,7 @@
 </details>
    
  <p align="center">
-<img width="795" height="480" alt="Дизайн без названия (3)" src="https://github.com/user-attachments/assets/114340ed-2f9f-4898-abb9-2c863a95d9f7" />
+
 
 <Details>
   <summary><b>ค๖໐นt ๓ē.</b></summary>
