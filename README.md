@@ -13,9 +13,11 @@
 </p>
 </details>
    
- <p align="left">
+  <p><p align="left">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExam1rdDhyc2VldWJ0cXY2bHJyYmx2M2RoMnNqd29oOTN1eGNhNHlyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dsVpehrN1psulyzxmU/giphy.gif" alt="Alt text">
 
+    
+  <p><p align="right">
 <Details>
   <summary><b>ค๖໐นt ๓ē.</b></summary>
   <br>
