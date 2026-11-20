@@ -47,8 +47,6 @@ Fคง໐ritē Şiຖງērş. :
 
   <p><p align="center">
 <img width="99" height="56" alt="aesthetic_46_by_scorbuniis_ddcs23h-fullview" src="https://github.com/user-attachments/assets/5db6276f-270f-4676-bca5-d9d049436ca6" />
-    
-<img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/eca4a94a-0950-4ae3-94b2-940c7593678b" />
 
 <img width="99" height="56" alt="dbi9dzj-6d755268-8dc3-4833-bcad-e885c8b4e457" src="https://github.com/user-attachments/assets/56647e0c-8a9f-4d24-b896-5175bd889162" />
 
@@ -61,6 +59,8 @@ Fคง໐ritē Şiຖງērş. :
 <img width="99" height="55" alt="dbfuzzf-d32bd7db-cf74-41eb-b7c1-c21effe6b3ed" src="https://github.com/user-attachments/assets/3a171733-f5ed-498f-8a48-0639211a051c" />
 
 <img width="99" height="55" alt="dbcx3uy-06797352-bb5c-413c-92dd-8b8a47a400a3" src="https://github.com/user-attachments/assets/826ea033-6d3b-4e13-9118-f28b75d9b1eb" />
+
+<img width="99" height="56" alt="dbb2aei-f824f106-6f9b-43a1-87ec-065cc6e8eb0e (1)" src="https://github.com/user-attachments/assets/5952f38d-17ac-4671-bdb8-8db8944cb965" />
 
   </a>
 </p>
