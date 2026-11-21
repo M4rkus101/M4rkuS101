@@ -45,7 +45,7 @@
  <p><p align="center">
 Fคง໐ritē Şiຖງērş. :
   <p><p align="center">
-คຖ໓ ໐ຖē, ¢นrrēຖt ว໐ฯş, Tง ງirl, วค¢k Ştคน๖ēr, ๓ค¢ ໓ē๓คr¢໐, ¢rฯştคl ¢คştlēş, Pคştēl ງh໐ştş, ຟhirr, คlēx ງ, Thrēē ໓คฯş ງrค¢ē
+คຖ໓ ໐ຖē, ¢นrrēຖt ว໐ฯş, Tง ງirl, วค¢k Ştคน๖ēr, ๓ค¢ ໓ē๓คr¢໐, ¢rฯştคl ¢คştlēş, Pคştēl ງh໐ştş, ຟhirr, คlēx ງ, Thrēē ໓คฯş ງrค¢ē.
 
   <p><p align="center">
 <img width="99" height="56" alt="clouds" src="https://github.com/user-attachments/assets/79786595-78b7-49de-bc71-b9c87a12adfd" />
