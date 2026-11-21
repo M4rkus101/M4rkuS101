@@ -38,7 +38,7 @@
 <p><p align="center">
 ๓คiຖ fคຖ໓໐๓ş. :
   <p><p align="center">
-໓rēค๓คlitฯ, T๖໐Tง(2 ค¢tş), ค ๖r໐kēຖ ໓rēค๓, FຖF งş I๓p ง4, R໐໓ค๓rix, คlคຖ คຖ໓ Liค๓, ໓นคlitฯ, ง໐¢คl໐i໓, นtคนl໐i໓, ๖ēฯ໐ຖ໓ Thē Şkฯ๖໐x, ๓¢ คRງ'ş, ງē๓iຖi H໐๓ē Ēຖtērtคiຖ๓ēຖt, H໐ຟ T໐ Trคiຖ ฯ໐นr ໓rคງ໐ຖ
+໓rēค๓คlitฯ, H໐ຟ T໐ Trคiຖ ฯ໐นr ໓rคງ໐ຖ, T๖໐Tง(2 ค¢tş), ค ๖r໐kēຖ ໓rēค๓, FຖF งş I๓p ง4, R໐໓ค๓rix, คlคຖ คຖ໓ Liค๓, ໓นคlitฯ, ง໐¢คl໐i໓, นtคนl໐i໓, ๖ēฯ໐ຖ໓ Thē Şkฯ๖໐x, ๓¢ คRງ'ş, ງē๓iຖi H໐๓ē Ēຖtērtคiຖ๓ēຖt, นຖştค๖lē Ş๓P
   <p><p align="center">
     
 
