@@ -1,5 +1,5 @@
 <p><p align="center">
-<img width="735" height="231" alt="Без_названия__5_-removebg-preview" src="https://github.com/user-attachments/assets/f541e9af-a489-4537-8a39-c5268d9b7a10" />
+<img width="895" height="95" alt="Без названия (6)" src="https://github.com/user-attachments/assets/941d59e2-8899-4fa4-816c-266a7c0bdd9a" />
 
 
   
@@ -14,13 +14,12 @@
 </p>
 </p>
 </details>
+<img width="57" height="55" alt="Без названия" src="https://github.com/user-attachments/assets/da65de1a-3f93-4cf5-91c8-b08f8b38fe51" />
+<a href="https://hits.sh/github.com/M4rkuS101/"><img alt="Hits" src="https://hits.sh/github.com/M4rkuS101.svg?style=flat-square&label=%E0%BB%93r%E0%B8%84%E0%BA%87%E0%BB%90%E0%BA%96%20Ri%E0%BB%93%C4%93r%C5%9F&color=f3f3f3&labelColor=0d0d0f"/></a>
+<img width="57" height="55" alt="714715677-75bffbfd-6a44-4e91-bec0-1b2bf351811a" src="https://github.com/user-attachments/assets/7ebc0da9-fa10-42ee-afb1-85945a84d8b8" />
 
   <p><p align="right">
 <img src="https://media.tenor.com/twsaybsCPqMAAAAM/httyd-hiccup.gif" alt="Alt text">
-
-  <img width="57" height="55" alt="Без названия" src="https://github.com/user-attachments/assets/da65de1a-3f93-4cf5-91c8-b08f8b38fe51" />
-<a href="https://hits.sh/github.com/M4rkuS101/"><img alt="Hits" src="https://hits.sh/github.com/M4rkuS101.svg?style=flat-square&label=%E0%BB%93r%E0%B8%84%E0%BA%87%E0%BB%90%E0%BA%96%20Ri%E0%BB%93%C4%93r%C5%9F&color=f3f3f3&labelColor=0d0d0f"/></a>
-<img width="57" height="55" alt="714715677-75bffbfd-6a44-4e91-bec0-1b2bf351811a" src="https://github.com/user-attachments/assets/7ebc0da9-fa10-42ee-afb1-85945a84d8b8" />
 
   <p><p align="left">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExam1rdDhyc2VldWJ0cXY2bHJyYmx2M2RoMnNqd29oOTN1eGNhNHlyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dsVpehrN1psulyzxmU/giphy.gif" alt="Alt text">
@@ -106,3 +105,7 @@ Fคง໐ritē Şiຖງērş. :
 
   </a>
 </p>
+
+<p align="center">
+<img width="895" height="95" alt="Без названия (7)" src="https://github.com/user-attachments/assets/48701a26-8cd6-4f32-9b96-49f217c38188" />
+
