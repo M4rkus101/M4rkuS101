@@ -53,15 +53,13 @@ Fคง໐ritē Şiຖງērş. :
 คຖ໓ ໐ຖē, ¢นrrēຖt ว໐ฯş, Tง ງirl, วค¢k Ştคน๖ēr, ๓ค¢ ໓ē๓คr¢໐, ¢rฯştคl ¢คştlēş, Pคştēl ງh໐ştş, ຟhirr, คlēx ງ, Thrēē ໓คฯş ງrค¢ē.
 
   <p><p align="center">
-<img width="99" height="56" alt="clouds" src="https://github.com/user-attachments/assets/79786595-78b7-49de-bc71-b9c87a12adfd" />
+<img width="99" height="56" alt="d75yhcd-3011a6b9-c635-4d2e-9f68-77cb6d61ff07" src="https://github.com/user-attachments/assets/a780d211-8e03-46b7-86ad-7996f32170fd" />
 
 <img width="99" height="56" alt="httyd3" src="https://github.com/user-attachments/assets/bddc07de-3efc-483b-887d-81180794b670" />
 
 <img width="99" height="56" alt="httyd2" src="https://github.com/user-attachments/assets/e7218687-3613-47b7-974a-5717a42a9142" />
 
 <img width="99" height="56" alt="httyd" src="https://github.com/user-attachments/assets/52cee5b8-22d3-4275-a6bd-192d89b0aa7c" />
-
-<img width="99" height="56" alt="dbb2aei-f824f106-6f9b-43a1-87ec-065cc6e8eb0e (1)" src="https://github.com/user-attachments/assets/5952f38d-17ac-4671-bdb8-8db8944cb965" />
 </p>
     </td>
     <td width="40%" align="center">
