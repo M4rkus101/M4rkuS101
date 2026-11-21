@@ -1,5 +1,7 @@
+
 <p align="center">
 <a href="https://hits.sh/github.com/M4rkuS101/"><img alt="Hits" src="https://hits.sh/github.com/M4rkuS101.svg?style=flat-square&label=%E0%BB%93r%E0%B8%84%E0%BA%87%E0%BB%90%E0%BA%96%20Ri%E0%BB%93%C4%93r%C5%9F&color=f3f3f3&labelColor=0d0d0f"/></a>
+<img width="57" height="55" alt="Без_названия__4_-removebg-preview" src="https://github.com/user-attachments/assets/75bffbfd-6a44-4e91-bec0-1b2bf351811a" />
   
   <p><p align="center">
 <Details>
