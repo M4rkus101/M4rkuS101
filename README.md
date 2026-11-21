@@ -36,8 +36,11 @@
     
   <p><p align="center">
 <img width="99" height="56" alt="httyd4" src="https://github.com/user-attachments/assets/d6559a51-f2be-4a47-b137-8f223ca31bf3" />
-    <img width="99" height="56" alt="d70vg8i-eda161f7-31b4-4732-8dc3-394576afd248" src="https://github.com/user-attachments/assets/11935483-5cbb-4145-9f5d-7fe23302f4d9" />
-    <img width="99" height="56" alt="d7bwy69-62f5460c-bc7a-43ef-8ad4-af790aaae596" src="https://github.com/user-attachments/assets/64dea312-c855-47a7-b009-e60b96ed2330" />
+
+<img width="99" height="56" alt="httyd3" src="https://github.com/user-attachments/assets/bddc07de-3efc-483b-887d-81180794b670" />
+
+<img width="99" height="56" alt="d7bwy69-62f5460c-bc7a-43ef-8ad4-af790aaae596" src="https://github.com/user-attachments/assets/64dea312-c855-47a7-b009-e60b96ed2330" />
+
 <img width="99" height="56" alt="d7pc1pr-7c3a6348-6586-4dc4-aae5-a9d541affc0e" src="https://github.com/user-attachments/assets/a3babd12-1cb4-40b2-9a55-992c694d8cc1" />
 
 <p><p align="center">
@@ -55,11 +58,12 @@ Fคง໐ritē Şiຖງērş. :
   <p><p align="center">
 <img width="99" height="56" alt="d75yhcd-3011a6b9-c635-4d2e-9f68-77cb6d61ff07" src="https://github.com/user-attachments/assets/a780d211-8e03-46b7-86ad-7996f32170fd" />
 
-<img width="99" height="56" alt="httyd3" src="https://github.com/user-attachments/assets/bddc07de-3efc-483b-887d-81180794b670" />
+<img width="99" height="56" alt="d70vg8i-eda161f7-31b4-4732-8dc3-394576afd248" src="https://github.com/user-attachments/assets/11935483-5cbb-4145-9f5d-7fe23302f4d9" />
 
 <img width="99" height="56" alt="httyd2" src="https://github.com/user-attachments/assets/e7218687-3613-47b7-974a-5717a42a9142" />
 
-<img width="99" height="56" alt="httyd" src="https://github.com/user-attachments/assets/52cee5b8-22d3-4275-a6bd-192d89b0aa7c" />
+<img width="99" height="56" alt="d7pdma4-5c2367c2-c763-42f4-8055-508a2040a7b0" src="https://github.com/user-attachments/assets/3f980ea5-a77c-4a1b-860c-ede361e3a364" />
+
 </p>
     </td>
     <td width="40%" align="center">
